@@ -19,7 +19,6 @@ const Navbar = () => {
                 Chat
             </h1>
             {/*{user ? <LogOut/> : <Signin/>}*/}
-
         </div>
     );
 };
